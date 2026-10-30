@@ -1,0 +1,12 @@
+{
+  "version": "1.1.0",
+  "download_url": "https://ghfast.top/https://github.com/guanyuefu-hub/huizao/releases/download/v1.1.0/huizao-1.1.0.zip",
+  "download_urls": [
+    "https://ghfast.top/https://github.com/guanyuefu-hub/huizao/releases/download/v1.1.0/huizao-1.1.0.zip",
+    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.1.0/huizao-1.1.0.zip"
+  ],
+  "sha256": "958C144E62BB4FB1C83044CF92442CA0B28198ACFBFCB6339AC0703EB5894416",
+  "size": 72747152,
+  "notes": "前端源码重写（Vue 3 + Element Plus），界面与交互重做；后端接口 112/112 不变",
+  "published_at": "2026-10-29T09:05:27+08:00"
+}
