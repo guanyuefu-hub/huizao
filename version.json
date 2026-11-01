@@ -1,12 +1,12 @@
 {
-  "version": "1.1.1",
-  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.1.1/huizao-1.1.1.zip",
+  "version": "1.1.2",
+  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.1.2/huizao-1.1.2.zip",
   "download_urls": [
-    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.1.1/huizao-1.1.1.zip",
-    "https://ghfast.top/https://github.com/guanyuefu-hub/huizao/releases/download/v1.1.1/huizao-1.1.1.zip"
+    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.1.2/huizao-1.1.2.zip",
+    "https://ghfast.top/https://github.com/guanyuefu-hub/huizao/releases/download/v1.1.2/huizao-1.1.2.zip"
   ],
-  "sha256": "466CD11374C2AE89CF08C656EBD2EC444B10E542F2A5E0C4DFEB06A8F870C821",
-  "size": 73035610,
-  "notes": "1.1.1：全新品牌图标、应用内图标统一线性化、清除原作者联系方式、只保留主窗口",
-  "published_at": "2026-10-30T14:35:40+08:00"
+  "sha256": "EAEFCBD83F9D61112E145C361EFCF30D9606E68600DB9312AB9BC2A32E9F5983",
+  "size": 73037011,
+  "notes": "1.1.2：启动不再自动弹出设置（仅保留提示）、补齐尺寸标注等图标线性化",
+  "published_at": "2026-11-01T22:40:20+08:00"
 }
