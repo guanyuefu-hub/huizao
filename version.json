@@ -1,12 +1,12 @@
 {
-  "version": "1.2.0",
-  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.2.0/huizao-1.2.0.zip",
+  "version": "1.2.1",
+  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.2.1/huizao-1.2.1.zip",
   "download_urls": [
-    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.2.0/huizao-1.2.0.zip",
-    "https://ghfast.top/https://github.com/guanyuefu-hub/huizao/releases/download/v1.2.0/huizao-1.2.0.zip"
+    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.2.1/huizao-1.2.1.zip",
+    "https://ghfast.top/https://github.com/guanyuefu-hub/huizao/releases/download/v1.2.1/huizao-1.2.1.zip"
   ],
-  "sha256": "998B49F9999721D7D23709977B17C90785D941290028C6EE81E97636601FE622",
-  "size": 73221955,
-  "notes": "1.2.0：对齐原版 3.9.19（134 个接口全覆盖），新增 AI 对话与竞品采集，前端换用 3.9.19 原厂界面，启动不再自动弹设置",
-  "published_at": "2026-11-03T12:17:36+08:00"
+  "sha256": "296BED66497EA0513E1884076E5D3AD0A55ACD4E3343C72914C585BD2E8FCE3A",
+  "size": 73235854,
+  "notes": "1.2.1：竞品采集真实抓取与素材入库、AI 对话页面、品牌残留清理",
+  "published_at": "2026-11-03T12:44:44+08:00"
 }
