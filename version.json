@@ -1,12 +1,12 @@
 {
-  "version": "1.6.0",
-  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.6.0/huizao-1.6.0.zip",
+  "version": "1.6.1",
+  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.6.1/huizao-1.6.1.zip",
   "download_urls": [
-    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.6.0/huizao-1.6.0.zip",
-    "https://ghfast.top/https://github.com/guanyuefu-hub/huizao/releases/download/v1.6.0/huizao-1.6.0.zip"
+    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.6.1/huizao-1.6.1.zip",
+    "https://ghfast.top/https://github.com/guanyuefu-hub/huizao/releases/download/v1.6.1/huizao-1.6.1.zip"
   ],
-  "sha256": "8A4E91547E21BB893E99AF02F1B5E99811563A1BAEB2132727782D8BDEAB20F1",
-  "size": 73270874,
-  "notes": "文生图入口：提示词+比例+张数+精度，结果进生成记录",
-  "published_at": "2026-11-04T10:28:27+08:00"
+  "sha256": "6D71B872FC4D72AB115A099AD7813A150048D1DC887849366DDC8666D93E9948",
+  "size": 73172338,
+  "notes": "1.6.1：出厂供应商目录写死进程序（12 渠道），对齐原版 3.9.20 运行期目录",
+  "published_at": "2026-11-04T11:00:48+08:00"
 }
