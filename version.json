@@ -1,12 +1,12 @@
 {
-  "version": "1.4.0",
-  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.4.0/huizao-1.4.0.zip",
+  "version": "1.6.0",
+  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.6.0/huizao-1.6.0.zip",
   "download_urls": [
-    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.4.0/huizao-1.4.0.zip",
-    "https://ghfast.top/https://github.com/guanyuefu-hub/huizao/releases/download/v1.4.0/huizao-1.4.0.zip"
+    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.6.0/huizao-1.6.0.zip",
+    "https://ghfast.top/https://github.com/guanyuefu-hub/huizao/releases/download/v1.6.0/huizao-1.6.0.zip"
   ],
-  "sha256": "6E1EF239F4BD026776DA9FEDF732409555478CC1DFF67DD3EB045504C70A48E8",
-  "size": 73151419,
-  "notes": "1.4.0：RSA-2048+PSS 离线授权（AQ3）、可选在线吊销校验",
-  "published_at": "2026-11-04T07:59:54+08:00"
+  "sha256": "8A4E91547E21BB893E99AF02F1B5E99811563A1BAEB2132727782D8BDEAB20F1",
+  "size": 73270874,
+  "notes": "文生图入口：提示词+比例+张数+精度，结果进生成记录",
+  "published_at": "2026-11-04T10:28:27+08:00"
 }
