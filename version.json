@@ -1,12 +1,12 @@
 {
-  "version": "1.3.0",
-  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.3.0/huizao-1.3.0.zip",
+  "version": "1.4.0",
+  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.4.0/huizao-1.4.0.zip",
   "download_urls": [
-    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.3.0/huizao-1.3.0.zip",
-    "https://ghfast.top/https://github.com/guanyuefu-hub/huizao/releases/download/v1.3.0/huizao-1.3.0.zip"
+    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.4.0/huizao-1.4.0.zip",
+    "https://ghfast.top/https://github.com/guanyuefu-hub/huizao/releases/download/v1.4.0/huizao-1.4.0.zip"
   ],
-  "sha256": "CAA48C321B586D1FEDCB98FEECB761D7293ADBDD64D25580E4266A00069F8ED1",
-  "size": 73243519,
-  "notes": "1.3.0：授权严格模式 + 设备绑定激活码（机器码换码），激活弹层自动关闭；教程页可复制本机机器码。",
-  "published_at": "2026-11-03T14:06:17+08:00"
+  "sha256": "6E1EF239F4BD026776DA9FEDF732409555478CC1DFF67DD3EB045504C70A48E8",
+  "size": 73151419,
+  "notes": "1.4.0：RSA-2048+PSS 离线授权（AQ3）、可选在线吊销校验",
+  "published_at": "2026-11-04T07:59:54+08:00"
 }
