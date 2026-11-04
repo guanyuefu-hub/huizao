@@ -1,12 +1,12 @@
 {
-  "version": "1.7.0",
-  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.7.0/huizao-1.7.0.zip",
+  "version": "1.7.1",
+  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.7.1/huizao-1.7.1.zip",
   "download_urls": [
-    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.7.0/huizao-1.7.0.zip",
-    "https://ghfast.top/https://github.com/guanyuefu-hub/huizao/releases/download/v1.7.0/huizao-1.7.0.zip"
+    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.7.1/huizao-1.7.1.zip",
+    "https://ghfast.top/https://github.com/guanyuefu-hub/huizao/releases/download/v1.7.1/huizao-1.7.1.zip"
   ],
-  "sha256": "EA06A1E0782A101C23FCF65E4EA6521AA3FB37BF755490DA9290ECABEEEF681B",
-  "size": 73381088,
-  "notes": "在线席位授权（RSA-2048 PSS + 席位 + 解绑 + 吊销 + 管理端）",
-  "published_at": "2026-11-04T15:44:00+08:00"
+  "sha256": "E2E2D443454778A485A6772EBC9E597E2FB9ED6FBFEEACD9B3834B407C421B35",
+  "size": 73380259,
+  "notes": "修复：到期弹层的「订阅」不再跳原作者商店，改为本地教程页；应用内已无指向原作者站点的链接",
+  "published_at": "2026-11-04T16:07:43+08:00"
 }
