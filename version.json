@@ -1,12 +1,12 @@
 {
-  "version": "1.7.5",
-  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.7.5/huizao-1.7.5.zip",
+  "version": "1.7.6",
+  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.7.6/huizao-1.7.6.zip",
   "download_urls": [
-    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.7.5/huizao-1.7.5.zip",
-    "https://ghfast.top/https://github.com/guanyuefu-hub/huizao/releases/download/v1.7.5/huizao-1.7.5.zip"
+    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.7.6/huizao-1.7.6.zip",
+    "https://ghfast.top/https://github.com/guanyuefu-hub/huizao/releases/download/v1.7.6/huizao-1.7.6.zip"
   ],
-  "sha256": "72F22129C0DAA5DF59B084E9BE240B0A8333195064A431F301DB1127CC835612",
-  "size": 73388449,
-  "notes": "激活码升级为 HZ4 加密格式（AES-256-GCM + RSA-PSS），旧 AQ3/AQ2 码只读兼容；Cloudflare Worker 同步升级。",
-  "published_at": "2026-11-05T12:51:34+08:00"
+  "sha256": "916323423FE001AE73F87612E6B3EDE51DF17BFF7B7F37DF6B4F644B96C55366",
+  "size": 73283437,
+  "notes": "修复设置页供应商验证报「未知供应商：ailaok」；视频供应商校验不再误判；凭证验证传入 API Key 并做连通性测试。",
+  "published_at": "2026-11-05T18:43:03+08:00"
 }
