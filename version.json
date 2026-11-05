@@ -5,8 +5,8 @@
     "https://github.com/guanyuefu-hub/huizao/releases/download/v1.7.8/huizao-1.7.8.zip",
     "https://ghfast.top/https://github.com/guanyuefu-hub/huizao/releases/download/v1.7.8/huizao-1.7.8.zip"
   ],
-  "sha256": "75C67532A9AE401BA4F344B7F793CA1A9D4F9F9F386617EEDEBC10F7CB55D08E",
-  "size": 73389466,
-  "notes": "两档老K都保留；默认产物目录 D:/产品图片（自动迁移）；推理型模型校验兼容",
-  "published_at": "2026-11-05T20:36:17+08:00"
+  "sha256": "55B17C299180B2C373A5EE9B058B4387972035F28945B4B84B5E29CBD03518DC",
+  "size": 73391787,
+  "notes": "两档老K都保留（稳·可2k + image-2.5）；默认产物目录改为 D:/产品图片 并自动迁移旧默认；推理型模型校验兼容",
+  "published_at": "2026-11-05T20:40:49+08:00"
 }
