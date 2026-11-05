@@ -1,12 +1,12 @@
 {
-  "version": "1.7.8",
-  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.7.8/huizao-1.7.8.zip",
+  "version": "1.7.9",
+  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.7.9/huizao-1.7.9.zip",
   "download_urls": [
-    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.7.8/huizao-1.7.8.zip",
-    "https://ghfast.top/https://github.com/guanyuefu-hub/huizao/releases/download/v1.7.8/huizao-1.7.8.zip"
+    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.7.9/huizao-1.7.9.zip",
+    "https://ghfast.top/https://github.com/guanyuefu-hub/huizao/releases/download/v1.7.9/huizao-1.7.9.zip"
   ],
-  "sha256": "55B17C299180B2C373A5EE9B058B4387972035F28945B4B84B5E29CBD03518DC",
-  "size": 73391787,
-  "notes": "两档老K都保留（稳·可2k + image-2.5）；默认产物目录改为 D:/产品图片 并自动迁移旧默认；推理型模型校验兼容",
-  "published_at": "2026-11-05T20:40:49+08:00"
+  "sha256": "FC03AB8F92DF5955505A156D9B2B09FDD1CBD3DCC1E0CF55E67EC7EAC5DD7BDE",
+  "size": 73391843,
+  "notes": "默认产物目录改为 D:/产品图（旧 D:/产品图片、E:/产品图片 自动迁移）；两档老K；修复只填生图 Key 时 AI 分析误报未配置",
+  "published_at": "2026-11-05T21:43:38+08:00"
 }
