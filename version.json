@@ -1,12 +1,12 @@
 {
-  "version": "1.7.6",
-  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.7.6/huizao-1.7.6.zip",
+  "version": "1.7.7",
+  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.7.7/huizao-1.7.7.zip",
   "download_urls": [
-    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.7.6/huizao-1.7.6.zip",
-    "https://ghfast.top/https://github.com/guanyuefu-hub/huizao/releases/download/v1.7.6/huizao-1.7.6.zip"
+    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.7.7/huizao-1.7.7.zip",
+    "https://ghfast.top/https://github.com/guanyuefu-hub/huizao/releases/download/v1.7.7/huizao-1.7.7.zip"
   ],
-  "sha256": "916323423FE001AE73F87612E6B3EDE51DF17BFF7B7F37DF6B4F644B96C55366",
-  "size": 73283437,
-  "notes": "修复设置页供应商验证报「未知供应商：ailaok」；视频供应商校验不再误判；凭证验证传入 API Key 并做连通性测试。",
-  "published_at": "2026-11-05T18:43:03+08:00"
+  "sha256": "7BA517CFABEAEEE95274783BAF8B9F986CCA3B0629AC67FFCD77F2A601873D6D",
+  "size": 73390587,
+  "notes": "出厂供应商固定死为老K（AIlaok）：只保留 AIlaok/ailaok；读设置/保存/恢复默认均兜底裁剪。",
+  "published_at": "2026-11-05T19:01:13+08:00"
 }
