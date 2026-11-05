@@ -1,11 +1,13 @@
 {
-  "version": "1.8.0",
-  "notes": "补齐画布引擎、分析失败即报错、规划器去重与免文案名册、参考图缩放与 input_fidelity",
+  "version": "1.8.1",
+  "notes": "补齐图片复刻跟随比例、画布编辑超时与下载预算、前端日志去重限流、保存路径缓存",
   "published_at": "2026-11-05T22:16:00+08:00",
-  "size": 73403962,
-  "sha256": "61b30fc0e658fda97677954c062a3fcf439d9e269651e301f28518eac02ba686",
+  "size": 73408272,
+  "sha256": "7893ab877eb2c49f68c75524640aaf1188e5b865e4962b26db2198d0b1ff35fc",
   "download_urls": [
-    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.0/huizao-1.8.0.zip",
-    "https://ghfast.top/https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.0/huizao-1.8.0.zip"
-  ]
+    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.1/huizao-1.8.1.zip",
+    "https://ghfast.top/https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.1/huizao-1.8.1.zip"
+  ],
+  "url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.1/huizao-1.8.1.zip",
+  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.1/huizao-1.8.1.zip"
 }
