@@ -1,12 +1,12 @@
 {
-  "version": "1.7.7",
-  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.7.7/huizao-1.7.7.zip",
+  "version": "1.7.8",
+  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.7.8/huizao-1.7.8.zip",
   "download_urls": [
-    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.7.7/huizao-1.7.7.zip",
-    "https://ghfast.top/https://github.com/guanyuefu-hub/huizao/releases/download/v1.7.7/huizao-1.7.7.zip"
+    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.7.8/huizao-1.7.8.zip",
+    "https://ghfast.top/https://github.com/guanyuefu-hub/huizao/releases/download/v1.7.8/huizao-1.7.8.zip"
   ],
-  "sha256": "7BA517CFABEAEEE95274783BAF8B9F986CCA3B0629AC67FFCD77F2A601873D6D",
-  "size": 73390587,
-  "notes": "出厂供应商固定死为老K（AIlaok）：只保留 AIlaok/ailaok；读设置/保存/恢复默认均兜底裁剪。",
-  "published_at": "2026-11-05T19:01:13+08:00"
+  "sha256": "75C67532A9AE401BA4F344B7F793CA1A9D4F9F9F386617EEDEBC10F7CB55D08E",
+  "size": 73389466,
+  "notes": "两档老K都保留；默认产物目录 D:/产品图片（自动迁移）；推理型模型校验兼容",
+  "published_at": "2026-11-05T20:36:17+08:00"
 }
