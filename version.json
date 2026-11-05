@@ -1,12 +1,12 @@
 {
-  "version": "1.7.2",
-  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.7.2/huizao-1.7.2.zip",
+  "version": "1.7.3",
+  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.7.3/huizao-1.7.3.zip",
   "download_urls": [
-    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.7.2/huizao-1.7.2.zip",
-    "https://ghfast.top/https://github.com/guanyuefu-hub/huizao/releases/download/v1.7.2/huizao-1.7.2.zip"
+    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.7.3/huizao-1.7.3.zip",
+    "https://ghfast.top/https://github.com/guanyuefu-hub/huizao/releases/download/v1.7.3/huizao-1.7.3.zip"
   ],
-  "sha256": "28295EAA88DD36B3BC857646D2DC7E3103A0D923EF32DB9EE740A1058E973F43",
-  "size": 73381133,
-  "notes": "更新下载不再弹保存框：直接下到临时目录后一键安装重启；隐藏作者微信二维码区域",
-  "published_at": "2026-11-04T16:30:56+08:00"
+  "sha256": "289BF25A0D36D23C5A1FEDCD8AF07C70B8062786F02E5D63A7189857DD9B711B",
+  "size": 73381998,
+  "notes": "Cloudflare Workers 授权服务上线；修复机器码在无控制台上下文不稳定、license-server.txt 失效与 Cloudflare UA 403",
+  "published_at": "2026-11-05T11:15:19+08:00"
 }
