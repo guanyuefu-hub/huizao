@@ -1,12 +1,11 @@
 {
-  "version": "1.7.9",
-  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.7.9/huizao-1.7.9.zip",
+  "version": "1.8.0",
+  "notes": "补齐画布引擎、分析失败即报错、规划器去重与免文案名册、参考图缩放与 input_fidelity",
+  "published_at": "2026-11-05T22:16:00+08:00",
+  "size": 73403962,
+  "sha256": "61b30fc0e658fda97677954c062a3fcf439d9e269651e301f28518eac02ba686",
   "download_urls": [
-    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.7.9/huizao-1.7.9.zip",
-    "https://ghfast.top/https://github.com/guanyuefu-hub/huizao/releases/download/v1.7.9/huizao-1.7.9.zip"
-  ],
-  "sha256": "FC03AB8F92DF5955505A156D9B2B09FDD1CBD3DCC1E0CF55E67EC7EAC5DD7BDE",
-  "size": 73391843,
-  "notes": "默认产物目录改为 D:/产品图（旧 D:/产品图片、E:/产品图片 自动迁移）；两档老K；修复只填生图 Key 时 AI 分析误报未配置",
-  "published_at": "2026-11-05T21:43:38+08:00"
+    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.0/huizao-1.8.0.zip",
+    "https://ghfast.top/https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.0/huizao-1.8.0.zip"
+  ]
 }
