@@ -1,13 +1,12 @@
 {
-  "version": "1.8.1",
-  "notes": "补齐图片复刻跟随比例、画布编辑超时与下载预算、前端日志去重限流、保存路径缓存",
-  "published_at": "2026-11-05T22:16:00+08:00",
-  "size": 73408272,
-  "sha256": "7893ab877eb2c49f68c75524640aaf1188e5b865e4962b26db2198d0b1ff35fc",
+  "version": "1.8.2",
+  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.2/huizao-1.8.2.zip",
   "download_urls": [
-    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.1/huizao-1.8.1.zip",
-    "https://ghfast.top/https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.1/huizao-1.8.1.zip"
+    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.2/huizao-1.8.2.zip",
+    "https://ghfast.top/https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.2/huizao-1.8.2.zip"
   ],
-  "url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.1/huizao-1.8.1.zip",
-  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.1/huizao-1.8.1.zip"
+  "sha256": "3CEFA473FFD13F17B3BB4CAA7C1D18BD57E9A5072231AEFF8082EE6BDA2A5BF3",
+  "size": 73419745,
+  "notes": "反汇编级符号复刻：fanliapi 图片探测/引导图、routes_chat 会话工具、证书错误提示（1.8.2）",
+  "published_at": "2026-11-06T06:30:54+08:00"
 }
