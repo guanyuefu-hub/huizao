@@ -1,12 +1,12 @@
 {
-  "version": "1.8.10",
-  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.10/huizao-1.8.10.zip",
+  "version": "1.8.11",
+  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.11/huizao-1.8.11.zip",
   "download_urls": [
-    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.10/huizao-1.8.10.zip",
-    "https://ghfast.top/https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.10/huizao-1.8.10.zip"
+    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.11/huizao-1.8.11.zip",
+    "https://ghfast.top/https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.11/huizao-1.8.11.zip"
   ],
-  "sha256": "BFEE3CFE5D788002AC9C481CBE4CE1DB4D362DF9C96CC80B280D3B1C582E1491",
-  "size": 73430790,
-  "notes": "1.8.10：出图 prompt 类型解析与块序对齐、落盘命名/扩展名修正；Win7 启动修复补丁",
-  "published_at": "2026-11-06T15:22:46+08:00"
+  "sha256": "FC0AD9C4DA228B37BDA7CB4AC55DA1B0C5AED57716C5C1DE36B456834147DC4E",
+  "size": 73541624,
+  "notes": "1.8.11：额外需求自动加图（同类型多实例按 :序号 保留）、落盘序号累加、类型名序号不污染文件名；修复推理型分析模型输出被截断导致规划退回单张的问题。",
+  "published_at": "2026-11-06T16:05:11+08:00"
 }
