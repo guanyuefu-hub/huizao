@@ -1,12 +1,12 @@
 {
-  "version": "1.8.5",
-  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.5/huizao-1.8.5.zip",
+  "version": "1.8.6",
+  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.6/huizao-1.8.6.zip",
   "download_urls": [
-    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.5/huizao-1.8.5.zip",
-    "https://ghfast.top/https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.5/huizao-1.8.5.zip"
+    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.6/huizao-1.8.6.zip",
+    "https://ghfast.top/https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.6/huizao-1.8.6.zip"
   ],
-  "sha256": "17E7B4A65584578DB027156126DE88B014059A8D88261E24967BB11F14F1FB69",
-  "size": 73423359,
-  "notes": "修复带参考图生图 400（data URI 内联）、AI 帮写卖点提示词对齐原作、参数错误不再误报余额不足",
-  "published_at": "2026-11-06T11:28:58+08:00"
+  "sha256": "CB069F6613FDEF44B3F58BB64C1CB3D278CA9FD3D97F4B22E3F3C8EA5EE64AD3",
+  "size": 73424392,
+  "notes": "修复设置-分析模型面板空白（缺 api_key 导致前端渲染中断）",
+  "published_at": "2026-11-06T11:38:20+08:00"
 }
