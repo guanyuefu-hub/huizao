@@ -1,12 +1,12 @@
 {
-  "version": "1.8.9",
-  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.9/huizao-1.8.9.zip",
+  "version": "1.8.10",
+  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.10/huizao-1.8.10.zip",
   "download_urls": [
-    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.9/huizao-1.8.9.zip",
-    "https://ghfast.top/https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.9/huizao-1.8.9.zip"
+    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.10/huizao-1.8.10.zip",
+    "https://ghfast.top/https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.10/huizao-1.8.10.zip"
   ],
-  "sha256": "F2D3F7287D19ECA7A760F6F874604AC8F0BE3937DF0A9F7969930DF3279470A0",
-  "size": 73427988,
-  "notes": "AI 对话空消息 400、竞品采集平台门禁 422、client-log throttled 字段对齐，均与原作 3.9.20 一致",
-  "published_at": "2026-11-06T14:03:22+08:00"
+  "sha256": "BFEE3CFE5D788002AC9C481CBE4CE1DB4D362DF9C96CC80B280D3B1C582E1491",
+  "size": 73430790,
+  "notes": "1.8.10：出图 prompt 类型解析与块序对齐、落盘命名/扩展名修正；Win7 启动修复补丁",
+  "published_at": "2026-11-06T15:22:46+08:00"
 }
