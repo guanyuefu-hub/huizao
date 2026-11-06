@@ -1,12 +1,12 @@
 {
-  "version": "1.8.16",
-  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.16/huizao-1.8.16.zip",
+  "version": "1.8.17",
+  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.17/huizao-1.8.17.zip",
   "download_urls": [
-    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.16/huizao-1.8.16.zip",
-    "https://ghfast.top/https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.16/huizao-1.8.16.zip"
+    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.17/huizao-1.8.17.zip",
+    "https://ghfast.top/https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.17/huizao-1.8.17.zip"
   ],
-  "sha256": "D44FADFF76583A8DA700D3DE796BA4826DB46A7DD9233DBE8BACBEDB07BD0441",
-  "size": 73550162,
-  "notes": "1.8.16：买家秀 JPEG 落盘、另存名跟随真实后缀；买家秀评价解析兼容封签 review_text/prompts 结构",
-  "published_at": "2026-11-06T23:14:51+08:00"
+  "sha256": "E97F05DBC4049402BD8C892CE3BCDAE94DDF96AD0671EE6CA37253F7C430FF77",
+  "size": 73455473,
+  "notes": "",
+  "published_at": "2026-11-07T06:38:55+08:00"
 }
