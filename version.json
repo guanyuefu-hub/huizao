@@ -1,12 +1,12 @@
 {
-  "version": "1.8.8",
-  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.8/huizao-1.8.8.zip",
+  "version": "1.8.9",
+  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.9/huizao-1.8.9.zip",
   "download_urls": [
-    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.8/huizao-1.8.8.zip",
-    "https://ghfast.top/https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.8/huizao-1.8.8.zip"
+    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.9/huizao-1.8.9.zip",
+    "https://ghfast.top/https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.9/huizao-1.8.9.zip"
   ],
-  "sha256": "C7CCD41B5D733BD69CC3E2FAD926A32B37D26A9CE757DE2B2EB800313103DC6E",
-  "size": 73320075,
-  "notes": "对齐原作 P2：image 缺参 403、warm-caches 空对象 200、recheck 扁平字段",
-  "published_at": "2026-11-06T12:50:10+08:00"
+  "sha256": "F2D3F7287D19ECA7A760F6F874604AC8F0BE3937DF0A9F7969930DF3279470A0",
+  "size": 73427988,
+  "notes": "AI 对话空消息 400、竞品采集平台门禁 422、client-log throttled 字段对齐，均与原作 3.9.20 一致",
+  "published_at": "2026-11-06T14:03:22+08:00"
 }
