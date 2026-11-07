@@ -1,12 +1,12 @@
 {
-  "version": "1.8.18",
-  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.18/huizao-1.8.18.zip",
+  "version": "1.8.19",
+  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.19/huizao-1.8.19.zip",
   "download_urls": [
-    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.18/huizao-1.8.18.zip",
-    "https://ghfast.top/https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.18/huizao-1.8.18.zip"
+    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.19/huizao-1.8.19.zip",
+    "https://ghfast.top/https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.19/huizao-1.8.19.zip"
   ],
-  "sha256": "AB9C7859B26F7B2A67B87523555FF05B42B8B5C345A6F25BA6D12C28EC550435",
-  "size": 73558236,
-  "notes": "买家秀两阶段请求体照搬原作；移除裸对象容错；规划失败文案对齐",
-  "published_at": "2026-11-07T13:05:10+08:00"
+  "sha256": "5255E99EDB8DBD7482758331B92C8DEB88DC7387BAB058C180CFDBD893DCB6C9",
+  "size": 73558802,
+  "notes": "买家秀空评价方向写「无」；retry 兼容两种 artifact 位置",
+  "published_at": "2026-11-07T16:51:49+08:00"
 }
