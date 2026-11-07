@@ -1,12 +1,12 @@
 {
-  "version": "1.8.17",
-  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.17/huizao-1.8.17.zip",
+  "version": "1.8.18",
+  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.18/huizao-1.8.18.zip",
   "download_urls": [
-    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.17/huizao-1.8.17.zip",
-    "https://ghfast.top/https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.17/huizao-1.8.17.zip"
+    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.18/huizao-1.8.18.zip",
+    "https://ghfast.top/https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.18/huizao-1.8.18.zip"
   ],
-  "sha256": "E97F05DBC4049402BD8C892CE3BCDAE94DDF96AD0671EE6CA37253F7C430FF77",
-  "size": 73455473,
-  "notes": "",
-  "published_at": "2026-11-07T06:38:55+08:00"
+  "sha256": "AB9C7859B26F7B2A67B87523555FF05B42B8B5C345A6F25BA6D12C28EC550435",
+  "size": 73558236,
+  "notes": "买家秀两阶段请求体照搬原作；移除裸对象容错；规划失败文案对齐",
+  "published_at": "2026-11-07T13:05:10+08:00"
 }
