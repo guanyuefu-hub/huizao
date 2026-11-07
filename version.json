@@ -1,12 +1,12 @@
 {
-  "version": "1.8.19",
-  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.19/huizao-1.8.19.zip",
+  "version": "1.8.20",
+  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.20/huizao-1.8.20.zip",
   "download_urls": [
-    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.19/huizao-1.8.19.zip",
-    "https://ghfast.top/https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.19/huizao-1.8.19.zip"
+    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.20/huizao-1.8.20.zip",
+    "https://ghfast.top/https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.20/huizao-1.8.20.zip"
   ],
-  "sha256": "5255E99EDB8DBD7482758331B92C8DEB88DC7387BAB058C180CFDBD893DCB6C9",
-  "size": 73558802,
-  "notes": "买家秀空评价方向写「无」；retry 兼容两种 artifact 位置",
-  "published_at": "2026-11-07T16:51:49+08:00"
+  "sha256": "277D580C9005C1C8E4FB285897559D82C6F8E185AFCA912130F223AD19686DFF",
+  "size": 73557852,
+  "notes": "buyer-show/retry 状态码与 failures=[] 语义对齐原件",
+  "published_at": "2026-11-07T18:18:29+08:00"
 }
