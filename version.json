@@ -1,12 +1,12 @@
 {
-  "version": "1.8.22",
-  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.22/huizao-1.8.22.zip",
+  "version": "1.8.23",
+  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.23/huizao-1.8.23.zip",
   "download_urls": [
-    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.22/huizao-1.8.22.zip",
-    "https://ghfast.top/https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.22/huizao-1.8.22.zip"
+    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.23/huizao-1.8.23.zip",
+    "https://ghfast.top/https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.23/huizao-1.8.23.zip"
   ],
-  "sha256": "0FA7E6E7DF2DE3F20471B4875BF6A089D01CF0940E9F4901BFAAE49A2D5C288A",
-  "size": 73560102,
-  "notes": "买家秀删除多余的产品分析调用，与原件一致只发 评价+规划 两次视觉请求",
-  "published_at": "2026-11-08T09:08:49+08:00"
+  "sha256": "5E283977631D73542F80BE15D1492AF95146F3B04D083250D7A0970FC5DCB420",
+  "size": 73458341,
+  "notes": "",
+  "published_at": "2026-11-08T10:30:12+08:00"
 }
