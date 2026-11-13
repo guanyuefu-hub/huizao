@@ -1,12 +1,12 @@
 {
-  "version": "1.8.37",
-  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.37/huizao-1.8.37.zip",
+  "version": "1.8.38",
+  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.38/huizao-1.8.38.zip",
   "download_urls": [
-    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.37/huizao-1.8.37.zip",
-    "https://ghfast.top/https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.37/huizao-1.8.37.zip"
+    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.38/huizao-1.8.38.zip",
+    "https://ghfast.top/https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.38/huizao-1.8.38.zip"
   ],
-  "sha256": "FF84F8A429D69DF4BF7A7C7F181F5F202CE61B2E33F2B75D834328D767DE6B17",
-  "size": 73576456,
-  "notes": "1.8.37：L3 A 档对齐（plan/storyboard/produce/retry + TTS 模型）、列表/回收站/封面/拼接修复、画布与采集增强",
-  "published_at": "2026-11-13T22:59:12+08:00"
+  "sha256": "D30E1F1C448920C214D50272C2B735538CF4F98123D930338E8AECA4B6C6802F",
+  "size": 73580682,
+  "notes": "1.8.38 残余结构对齐：check-update 投影、assets/deleted、voices 36 条、embed/snapshot 204",
+  "published_at": "2026-11-13T23:45:12+08:00"
 }
