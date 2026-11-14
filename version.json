@@ -1,12 +1,12 @@
 {
-  "version": "1.8.38",
-  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.38/huizao-1.8.38.zip",
+  "version": "1.8.39",
+  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.39/huizao-1.8.39.zip",
   "download_urls": [
-    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.38/huizao-1.8.38.zip",
-    "https://ghfast.top/https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.38/huizao-1.8.38.zip"
+    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.39/huizao-1.8.39.zip",
+    "https://ghfast.top/https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.39/huizao-1.8.39.zip"
   ],
-  "sha256": "D30E1F1C448920C214D50272C2B735538CF4F98123D930338E8AECA4B6C6802F",
-  "size": 73580682,
-  "notes": "1.8.38 残余结构对齐：check-update 投影、assets/deleted、voices 36 条、embed/snapshot 204",
-  "published_at": "2026-11-13T23:45:12+08:00"
+  "sha256": "EE94180A7E8DFAD1CF6C72D565234A1D2703B08D7801495D3D31DEBBB6B15AAC",
+  "size": 73581408,
+  "notes": "1.8.39 produce 内部 artifact 对齐 11 键/videos 7 键",
+  "published_at": "2026-11-14T08:08:02+08:00"
 }
