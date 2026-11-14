@@ -1,12 +1,12 @@
 {
-  "version": "1.8.41",
-  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.41/huizao-1.8.41.zip",
+  "version": "1.8.42",
+  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.42/huizao-1.8.42.zip",
   "download_urls": [
-    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.41/huizao-1.8.41.zip",
-    "https://ghfast.top/https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.41/huizao-1.8.41.zip"
+    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.42/huizao-1.8.42.zip",
+    "https://ghfast.top/https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.42/huizao-1.8.42.zip"
   ],
-  "sha256": "A485D13A36774D0011B519BB02697BB5D6532D4458B6B070D9C5BC646B25BC27",
-  "size": 73583151,
-  "notes": "1.8.41 内容安全拦截自动中性重试 + 重试任务目录修正",
-  "published_at": "2026-11-14T12:19:11+08:00"
+  "sha256": "8B3D47E686F77804D8621BEAB1EB625314F844D14AE9EAE8456DBCBA84846117",
+  "size": 73598458,
+  "notes": "1.8.42 补种带货视频库内置数字人/宠物/音色/场景",
+  "published_at": "2026-11-14T14:45:12+08:00"
 }
