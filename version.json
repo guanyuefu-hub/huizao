@@ -1,12 +1,12 @@
 {
-  "version": "1.8.40",
-  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.40/huizao-1.8.40.zip",
+  "version": "1.8.41",
+  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.41/huizao-1.8.41.zip",
   "download_urls": [
-    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.40/huizao-1.8.40.zip",
-    "https://ghfast.top/https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.40/huizao-1.8.40.zip"
+    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.41/huizao-1.8.41.zip",
+    "https://ghfast.top/https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.41/huizao-1.8.41.zip"
   ],
-  "sha256": "83FDA3C9F7941115D6FEB6A7EB74F33AF6EBDECA96C983FAB9999223FC83BBF6",
-  "size": 73581901,
-  "notes": "1.8.40 修复图片裂变分析JSON解析（自动重试+单图降级）与详情图批次超时（AIlaok并发回到4）",
-  "published_at": "2026-11-14T10:35:58+08:00"
+  "sha256": "A485D13A36774D0011B519BB02697BB5D6532D4458B6B070D9C5BC646B25BC27",
+  "size": 73583151,
+  "notes": "1.8.41 内容安全拦截自动中性重试 + 重试任务目录修正",
+  "published_at": "2026-11-14T12:19:11+08:00"
 }
