@@ -1,12 +1,12 @@
 {
-  "version": "1.8.39",
-  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.39/huizao-1.8.39.zip",
+  "version": "1.8.40",
+  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.40/huizao-1.8.40.zip",
   "download_urls": [
-    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.39/huizao-1.8.39.zip",
-    "https://ghfast.top/https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.39/huizao-1.8.39.zip"
+    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.40/huizao-1.8.40.zip",
+    "https://ghfast.top/https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.40/huizao-1.8.40.zip"
   ],
-  "sha256": "EE94180A7E8DFAD1CF6C72D565234A1D2703B08D7801495D3D31DEBBB6B15AAC",
-  "size": 73581408,
-  "notes": "1.8.39 produce 内部 artifact 对齐 11 键/videos 7 键",
-  "published_at": "2026-11-14T08:08:02+08:00"
+  "sha256": "83FDA3C9F7941115D6FEB6A7EB74F33AF6EBDECA96C983FAB9999223FC83BBF6",
+  "size": 73581901,
+  "notes": "1.8.40 修复图片裂变分析JSON解析（自动重试+单图降级）与详情图批次超时（AIlaok并发回到4）",
+  "published_at": "2026-11-14T10:35:58+08:00"
 }
