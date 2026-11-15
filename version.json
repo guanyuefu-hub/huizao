@@ -1,12 +1,12 @@
 {
-  "version": "1.8.45",
-  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.45/huizao-1.8.45.zip",
+  "version": "1.8.46",
+  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.46/huizao-1.8.46.zip/huizao-1.8.46.zip",
   "download_urls": [
-    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.45/huizao-1.8.45.zip",
-    "https://ghfast.top/https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.45/huizao-1.8.45.zip"
+    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.46/huizao-1.8.46.zip/huizao-1.8.46.zip",
+    "https://ghfast.top/https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.46/huizao-1.8.46.zip"
   ],
-  "sha256": "F227DFD0C7E573205AEB7A9D7BADDA1A2C7AEB10FA54F81E606391EF98A5D269",
-  "size": 73599238,
-  "notes": "设置页保存修复：余额不足等非阻断错误不再阻止保存",
-  "published_at": "2026-11-15T11:42:42+08:00"
+  "sha256": "DAABC8D3B21ED5B7D4F3C0AB88FC637C5672560A983F952CA3F07299C50B3C69",
+  "size": 73599618,
+  "notes": "文生图/自由创作按张数补齐：网关少返时自动补请求，请求 2 张即出 2 张。",
+  "published_at": "2026-11-15T12:21:00+08:00"
 }
