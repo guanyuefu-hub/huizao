@@ -1,12 +1,12 @@
 {
-  "version": "1.8.50",
-  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.50/huizao-1.8.50.zip",
+  "version": "1.8.51",
+  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.51/huizao-1.8.51.zip",
   "download_urls": [
-    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.50/huizao-1.8.50.zip",
-    "https://ghfast.top/https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.50/huizao-1.8.50.zip"
+    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.51/huizao-1.8.51.zip",
+    "https://ghfast.top/https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.51/huizao-1.8.51.zip"
   ],
-  "sha256": "18E4AD1A2AC592809BE0354BB07F98BBD0D9FECAC1233229C6A3D3D9CA6E42C5",
-  "size": 73643305,
-  "notes": "应用内图标统一为品牌玉绿圆角牌体系，与 exe/网站图标一致；文生图快捷入口隐藏；设置保存不再被供应商余额/脱敏 Key 误拦",
-  "published_at": "2026-11-15T18:37:29+08:00"
+  "sha256": "5D604A1044575291B29AFFA5009A71D2016B8D8D4D6227E84A0DB9D40743E5D6",
+  "size": 73649882,
+  "notes": "微信小店采集恢复：分享口令解析、买家登录态门禁、登录后一键复跑工具；其余模块不变。",
+  "published_at": "2026-11-15T21:06:25+08:00"
 }
