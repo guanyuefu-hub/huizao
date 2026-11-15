@@ -1,12 +1,12 @@
 {
-  "version": "1.8.46",
-  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.46/huizao-1.8.46.zip",
+  "version": "1.8.47",
+  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.47/huizao-1.8.47.zip",
   "download_urls": [
-    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.46/huizao-1.8.46.zip",
-    "https://ghfast.top/https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.46/huizao-1.8.46.zip"
+    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.47/huizao-1.8.47.zip",
+    "https://ghfast.top/https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.47/huizao-1.8.47.zip"
   ],
-  "sha256": "DAABC8D3B21ED5B7D4F3C0AB88FC637C5672560A983F952CA3F07299C50B3C69",
-  "size": 73599618,
-  "notes": "文生图/自由创作按张数补齐：网关少返时自动补请求，请求 2 张即出 2 张。",
-  "published_at": "2026-11-15T12:23:32+08:00"
+  "sha256": "35BC23DD430B1C9B690D44169AE11235D91AAD2DD001A09BA4A28BF6A20945CB",
+  "size": 73599810,
+  "notes": "1.8.47：隐藏与「自由创作」重叠的「文生图」顶栏入口（代码保留，可一键恢复）",
+  "published_at": "2026-11-15T14:41:39+08:00"
 }
