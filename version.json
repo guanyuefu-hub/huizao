@@ -1,12 +1,12 @@
 {
-  "version": "1.8.48",
-  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.48/huizao-1.8.48.zip",
+  "version": "1.8.49",
+  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.49/huizao-1.8.49.zip",
   "download_urls": [
-    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.48/huizao-1.8.48.zip",
-    "https://ghfast.top/https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.48/huizao-1.8.48.zip"
+    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.49/huizao-1.8.49.zip",
+    "https://ghfast.top/https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.49/huizao-1.8.49.zip"
   ],
-  "sha256": "A159A4D7D72F7790354F2068F00BC105006FDE1D878B3DAC1D1C8853E617DDA1",
-  "size": 73601050,
-  "notes": "1.8.48：修复设置保存被脱敏 Key / 独立分析模型空值误判为『生图模型未通过校验』；隐藏重复文生图入口",
-  "published_at": "2026-11-15T15:03:54+08:00"
+  "sha256": "3686822A98D3F7A4A3C8140E1A4ECAA44ACD0C3F8E3E320A4C1E0DDF7C8CA0B3",
+  "size": 73640530,
+  "notes": "1.8.49：统一 ico 图标（exe/窗口/网页 favicon/使用说明页同一份文件，逐字节一致）",
+  "published_at": "2026-11-15T16:18:06+08:00"
 }
