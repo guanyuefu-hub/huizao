@@ -1,12 +1,12 @@
 {
-  "version": "1.8.49",
-  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.49/huizao-1.8.49.zip",
+  "version": "1.8.50",
+  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.50/huizao-1.8.50.zip",
   "download_urls": [
-    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.49/huizao-1.8.49.zip",
-    "https://ghfast.top/https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.49/huizao-1.8.49.zip"
+    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.50/huizao-1.8.50.zip",
+    "https://ghfast.top/https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.50/huizao-1.8.50.zip"
   ],
-  "sha256": "3686822A98D3F7A4A3C8140E1A4ECAA44ACD0C3F8E3E320A4C1E0DDF7C8CA0B3",
-  "size": 73640530,
-  "notes": "1.8.49：统一 ico 图标（exe/窗口/网页 favicon/使用说明页同一份文件，逐字节一致）",
-  "published_at": "2026-11-15T16:18:06+08:00"
+  "sha256": "18E4AD1A2AC592809BE0354BB07F98BBD0D9FECAC1233229C6A3D3D9CA6E42C5",
+  "size": 73643305,
+  "notes": "应用内图标统一为品牌玉绿圆角牌体系，与 exe/网站图标一致；文生图快捷入口隐藏；设置保存不再被供应商余额/脱敏 Key 误拦",
+  "published_at": "2026-11-15T18:37:29+08:00"
 }
