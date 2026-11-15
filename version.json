@@ -1,12 +1,12 @@
 {
-  "version": "1.8.43",
-  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.43/huizao-1.8.43.zip",
+  "version": "1.8.44",
+  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.44/huizao-1.8.44.zip",
   "download_urls": [
-    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.43/huizao-1.8.43.zip",
-    "https://ghfast.top/https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.43/huizao-1.8.43.zip"
+    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.44/huizao-1.8.44.zip",
+    "https://ghfast.top/https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.44/huizao-1.8.44.zip"
   ],
-  "sha256": "00D362C1839B8CA184114BCC07972B262A5A702A78F35F9A46A997F105A13F97",
-  "size": 73597568,
-  "notes": "1.8.43 关闭窗口默认弹出退出确认框",
-  "published_at": "2026-11-14T16:04:38+08:00"
+  "sha256": "892950407B578DA686E4DA464057EB911EA6C971AD5903717EBBCD9042D9516E",
+  "size": 73597632,
+  "notes": "修复复刻视频生成：mode 不再被误当作供应商模型；复刻视频可正常出片。",
+  "published_at": "2026-11-15T08:36:21+08:00"
 }
