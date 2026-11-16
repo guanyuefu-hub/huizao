@@ -1,12 +1,12 @@
 {
-  "version": "1.8.52",
-  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.52/huizao-1.8.52.zip",
+  "version": "1.8.53",
+  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.53/huizao-1.8.53.zip",
   "download_urls": [
-    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.52/huizao-1.8.52.zip",
-    "https://ghfast.top/https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.52/huizao-1.8.52.zip"
+    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.53/huizao-1.8.53.zip",
+    "https://ghfast.top/https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.53/huizao-1.8.53.zip"
   ],
-  "sha256": "C4021AFC1E07DBF58D67B7522652DBFC17BA0F70A66ACB8FF993F15670C7640C",
-  "size": 74575778,
-  "notes": "微信小店：新增图片导入路径（无需登录即可采集商品图），商品页登录态检测与商家后台读取，CLI 工具；其余模块不变。",
-  "published_at": "2026-11-16T07:01:57+08:00"
+  "sha256": "0770D248F6C665170A46CD088B39FB4B14A3EB396B4EA7009781416CF27CD1C2",
+  "size": 74582743,
+  "notes": "微信小店：分享短码公开链路（无需登录解析商品标题/店铺/商品ID + 官方海报图入库）",
+  "published_at": "2026-11-16T08:27:19+08:00"
 }
