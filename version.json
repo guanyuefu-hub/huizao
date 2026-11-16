@@ -1,11 +1,11 @@
 {
-  "version": "1.8.55",
-  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.55/huizao-1.8.55.zip",
+  "version": "1.8.56",
+  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.56/huizao-1.8.56.zip",
   "download_urls": [
-    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.55/huizao-1.8.55.zip"
+    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.56/huizao-1.8.56.zip"
   ],
-  "sha256": "3DA868E516F70D080B3970EC459F7244EB6EE4648862AC79C9C0170F73381C03",
-  "size": 74575906,
-  "notes": "微信小店采集新增 CDP 直取后端（WMPFDebugger 62000）：直调 ProductLogic/GetProduct，主图/SKU图/详情图一次抓全（真机 17 张，7.7s）；无 CDP 时自动回退内存扫描或公开海报。",
-  "published_at": "2026-11-17T00:45:04+08:00"
+  "sha256": "84567350E04540EFF9816A5EE27497EAFB51E8F45C2F341EAFC98A590386C7AB",
+  "size": 74575997,
+  "notes": "CDP 通道一键启动（tools/wxshop_cdp_up.py --start/--status/--stop）+ 同商品 30s 缓存；打包版真机首次 8.1s、二次缓存 4.5s，17 张（6/2/9）。",
+  "published_at": "2026-11-17T01:06:36+08:00"
 }
