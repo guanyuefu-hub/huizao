@@ -1,12 +1,11 @@
 {
-  "version": "1.8.53",
-  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.53/huizao-1.8.53.zip",
+  "version": "1.8.55",
+  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.55/huizao-1.8.55.zip",
   "download_urls": [
-    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.53/huizao-1.8.53.zip",
-    "https://ghfast.top/https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.53/huizao-1.8.53.zip"
+    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.55/huizao-1.8.55.zip"
   ],
-  "sha256": "0770D248F6C665170A46CD088B39FB4B14A3EB396B4EA7009781416CF27CD1C2",
-  "size": 74582743,
-  "notes": "微信小店：分享短码公开链路（无需登录解析商品标题/店铺/商品ID + 官方海报图入库）",
-  "published_at": "2026-11-16T08:27:19+08:00"
+  "sha256": "3DA868E516F70D080B3970EC459F7244EB6EE4648862AC79C9C0170F73381C03",
+  "size": 74575906,
+  "notes": "微信小店采集新增 CDP 直取后端（WMPFDebugger 62000）：直调 ProductLogic/GetProduct，主图/SKU图/详情图一次抓全（真机 17 张，7.7s）；无 CDP 时自动回退内存扫描或公开海报。",
+  "published_at": "2026-11-17T00:45:04+08:00"
 }
