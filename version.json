@@ -1,11 +1,11 @@
 {
-  "version": "1.8.57",
-  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.57/huizao-1.8.57.zip",
+  "version": "1.8.58",
+  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.58/huizao-1.8.58.zip",
   "download_urls": [
-    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.57/huizao-1.8.57.zip"
+    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.58/huizao-1.8.58.zip"
   ],
-  "sha256": "F1E6EE6BABBB9903489A4284ACD920C38E13B5913827DD0693D6075532F795FE",
-  "size": 74575991,
-  "notes": "并发单飞：同一商品并发采集只抓一次，其余命中 30s 缓存；status 回显 wmpf_version 与 last_capture；--start 检测 WMPF 版本变化自动重算偏移。真机 17 张(6/2/9)，7.8s + 缓存 1.2s。",
-  "published_at": "2026-11-17T06:25:04+08:00"
+  "sha256": "2BFC2E83343E1156006A408220C109966449E81851B348B532763B68CF7305FC",
+  "size": 74577973,
+  "notes": "采集后端可见：status 暴露 capture_backends（memory 恒可用/CDP 在线追加）；last_capture 回显 backend；--stop 按端口兜底。真机 memory 17 张(6/2/9)，CDP 17 张 7.9s。",
+  "published_at": "2026-11-17T08:01:03+08:00"
 }
