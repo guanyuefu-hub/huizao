@@ -1,11 +1,11 @@
 {
-  "version": "1.8.65",
-  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.65/huizao-1.8.65.zip",
+  "version": "1.8.66",
+  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.66/huizao-1.8.66.zip",
   "download_urls": [
-    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.65/huizao-1.8.65.zip"
+    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.66/huizao-1.8.66.zip"
   ],
-  "sha256": "82220B30098E680198597C41A1827B7504DA79722077170EA0B17677DA111C72",
-  "size": 145393192,
-  "notes": "1.8.65：微信小店采集全程隐藏并回收小程序窗口；一键分析接入多模态分组分析；微信小店采集写入生成记录",
-  "published_at": "2026-11-17T18:50:48+08:00"
+  "sha256": "9DDD1ABD7A1713973E32F4D3ED02066F422A6425960BACA0CE709B2B77A27793",
+  "size": 145407878,
+  "notes": "原生内嵌浏览器视图 + 服务端权威 feed 合并 + 分析/批次超时修复",
+  "published_at": "2026-11-17T20:21:22+08:00"
 }
