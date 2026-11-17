@@ -1,12 +1,12 @@
 {
-  "version": "1.8.63",
-  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.63/huizao-1.8.63.zip",
+  "version": "1.8.64",
+  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.64/huizao-1.8.64.zip",
   "download_urls": [
-    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.63/huizao-1.8.63.zip",
-    "https://ghproxy.net/https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.63/huizao-1.8.63.zip"
+    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.64/huizao-1.8.64.zip",
+    "https://ghproxy.net/https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.64/huizao-1.8.64.zip"
   ],
-  "sha256": "9EB5A139C63D31AE0331D9C3347464A0DE841BED3210CC6EB74B3A4AF75ED8BF",
-  "size": 145373328,
-  "notes": "微信小店采集完成后写入「生成记录」右侧列表（主图/SKU图/详情图分类计数与缩略图）；修复直播/分享链接采集无记录。",
-  "published_at": "2026-11-17T15:39:33+08:00"
+  "sha256": "34790522070DAD461A71D3B0428782963D035FD8AD94A93913795A4A66A9227D",
+  "size": 145384501,
+  "notes": "一键分析接入多模态模型（主图/SKU/详情图逐图需求）；微信小店采集补写生成记录；修复分析状态不回写",
+  "published_at": "2026-11-17T17:42:11+08:00"
 }
