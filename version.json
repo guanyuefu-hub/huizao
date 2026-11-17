@@ -1,12 +1,12 @@
 {
-  "version": "1.8.60",
-  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.60/huizao-1.8.60.zip",
+  "version": "1.8.61",
+  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.61/huizao-1.8.61.zip",
   "download_urls": [
-    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.60/huizao-1.8.60.zip",
-    "https://ghproxy.net/https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.60/huizao-1.8.60.zip"
+    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.61/huizao-1.8.61.zip",
+    "https://ghproxy.net/https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.61/huizao-1.8.61.zip"
   ],
-  "sha256": "1FBD2EDAC71DD31E2603007CFC9D9FE6EED691FDDFDCAD3A9886C034FC07B43F",
-  "size": 145367321,
-  "notes": "修复竞品采集写入生成记录；内置浏览器改为无窗口采集",
-  "published_at": "2026-11-17T10:19:29+08:00"
+  "sha256": "A8226C7A6625BD5161CBBCE5375EFAFBD4FBECD834346E2AEC4BADD4AD06D3C2",
+  "size": 145371671,
+  "notes": "竞品采集同时下载视频本体（mp4/webm/mov，m3u8 转 mp4），保留首帧封面；主图/详情图/视频按目录落盘并写入生成记录。",
+  "published_at": "2026-11-17T11:55:25+08:00"
 }
