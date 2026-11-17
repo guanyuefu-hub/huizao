@@ -1,11 +1,11 @@
 {
-  "version": "1.8.58",
-  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.58/huizao-1.8.58.zip",
+  "version": "1.8.59",
+  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.59/huizao-1.8.59.zip",
   "download_urls": [
-    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.58/huizao-1.8.58.zip"
+    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.59/huizao-1.8.59.zip"
   ],
-  "sha256": "2BFC2E83343E1156006A408220C109966449E81851B348B532763B68CF7305FC",
-  "size": 74577973,
-  "notes": "采集后端可见：status 暴露 capture_backends（memory 恒可用/CDP 在线追加）；last_capture 回显 backend；--stop 按端口兜底。真机 memory 17 张(6/2/9)，CDP 17 张 7.9s。",
-  "published_at": "2026-11-17T08:01:03+08:00"
+  "sha256": "96E3186BBD320437B5FB2F2B7FA246C8F083156A12F631194530EE26A459A40B",
+  "size": 145362346,
+  "notes": "1.8.59：内置 CDP 助手（纯 Python 协议栈），启动即自动拉起，用户零配置；微信小店图集采集默认 auto，CDP 失败静默回退内存模式。",
+  "published_at": "2026-11-17T09:24:44+08:00"
 }
