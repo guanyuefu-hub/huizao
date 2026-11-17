@@ -1,12 +1,12 @@
 {
-  "version": "1.8.61",
-  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.61/huizao-1.8.61.zip",
+  "version": "1.8.62",
+  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.62/huizao-1.8.62.zip",
   "download_urls": [
-    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.61/huizao-1.8.61.zip",
-    "https://ghproxy.net/https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.61/huizao-1.8.61.zip"
+    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.62/huizao-1.8.62.zip",
+    "https://ghproxy.net/https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.62/huizao-1.8.62.zip"
   ],
-  "sha256": "A8226C7A6625BD5161CBBCE5375EFAFBD4FBECD834346E2AEC4BADD4AD06D3C2",
-  "size": 145371671,
-  "notes": "竞品采集同时下载视频本体（mp4/webm/mov，m3u8 转 mp4），保留首帧封面；主图/详情图/视频按目录落盘并写入生成记录。",
-  "published_at": "2026-11-17T11:55:25+08:00"
+  "sha256": "CAF8A7EC60957D8887F97E2046F0AFA46DDC7045721CBD7E89ED41317E862D33",
+  "size": 145374056,
+  "notes": "维护更新：CDP 助手自动写入 WMPF 版本状态，/api/competitor/wxshop/status 正确回显 26073；verify_wxshop_share 支持 --base。",
+  "published_at": "2026-11-17T14:59:43+08:00"
 }
