@@ -1,12 +1,12 @@
 {
-  "version": "1.8.62",
-  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.62/huizao-1.8.62.zip",
+  "version": "1.8.63",
+  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.63/huizao-1.8.63.zip",
   "download_urls": [
-    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.62/huizao-1.8.62.zip",
-    "https://ghproxy.net/https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.62/huizao-1.8.62.zip"
+    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.63/huizao-1.8.63.zip",
+    "https://ghproxy.net/https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.63/huizao-1.8.63.zip"
   ],
-  "sha256": "CAF8A7EC60957D8887F97E2046F0AFA46DDC7045721CBD7E89ED41317E862D33",
-  "size": 145374056,
-  "notes": "维护更新：CDP 助手自动写入 WMPF 版本状态，/api/competitor/wxshop/status 正确回显 26073；verify_wxshop_share 支持 --base。",
-  "published_at": "2026-11-17T14:59:43+08:00"
+  "sha256": "9EB5A139C63D31AE0331D9C3347464A0DE841BED3210CC6EB74B3A4AF75ED8BF",
+  "size": 145373328,
+  "notes": "微信小店采集完成后写入「生成记录」右侧列表（主图/SKU图/详情图分类计数与缩略图）；修复直播/分享链接采集无记录。",
+  "published_at": "2026-11-17T15:39:33+08:00"
 }
