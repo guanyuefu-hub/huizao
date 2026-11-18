@@ -1,11 +1,11 @@
 {
-  "version": "1.8.87",
-  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.87/huizao-1.8.87.zip",
+  "version": "1.8.88",
+  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.88/huizao-1.8.88.zip",
   "download_urls": [
-    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.87/huizao-1.8.87.zip"
+    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.88/huizao-1.8.88.zip"
   ],
-  "sha256": "0EED6DFF6350012D841630F7C890C5E7DCA95F223151378C5882A14ABE810153",
-  "size": 145491578,
+  "sha256": "4E469DB616133C129ED8507AFE93D9586A921231B47F34E1629DAABE8390B605",
+  "size": 145492416,
   "notes": "",
-  "published_at": "2026-11-18T23:25:31+08:00"
+  "published_at": "2026-11-19T05:46:14+08:00"
 }
