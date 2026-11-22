@@ -1,11 +1,11 @@
 {
-  "version": "1.8.99",
-  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.99/huizao-1.8.99.zip",
+  "version": "1.8.100",
+  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.100/huizao-1.8.100.zip",
   "download_urls": [
-    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.99/huizao-1.8.99.zip"
+    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.100/huizao-1.8.100.zip"
   ],
-  "sha256": "7DDA1A6FF72EE25F63C46D8A7476C2EBFB8F459C1809D91FBEB2DEFED313EB32",
-  "size": 145513414,
-  "notes": "AL-036 AI 对话工单字段对齐 + 25/25 全量验收",
-  "published_at": "2026-11-22T15:27:14+08:00"
+  "sha256": "D07259CC3A055EC6CA6CE2FD4312869C652FE0F25F605EC628067C2152A37B98",
+  "size": 145517313,
+  "notes": "1.8.100 右键菜单与 AI 对话记录编辑修复 · 26/26 全量验收",
+  "published_at": "2026-11-22T19:32:39+08:00"
 }
