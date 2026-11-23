@@ -1,11 +1,11 @@
 {
-  "version": "1.8.100",
-  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.100/huizao-1.8.100.zip",
+  "version": "1.8.101",
+  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.101/huizao-1.8.101.zip",
   "download_urls": [
-    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.100/huizao-1.8.100.zip"
+    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.101/huizao-1.8.101.zip"
   ],
-  "sha256": "D07259CC3A055EC6CA6CE2FD4312869C652FE0F25F605EC628067C2152A37B98",
-  "size": 145517313,
-  "notes": "1.8.100 右键菜单与 AI 对话记录编辑修复 · 26/26 全量验收",
-  "published_at": "2026-11-22T19:32:39+08:00"
+  "sha256": "34C74A8B4C89B5347F7C725A91FCC5012B8E49E8A2E368479158ECD32C67F345",
+  "size": 145516607,
+  "notes": "1.8.101 Codex 审查修复：AI 对话多提示词数量/历史多参考图 + 26/26 全量验收",
+  "published_at": "2026-11-23T11:49:04+08:00"
 }
