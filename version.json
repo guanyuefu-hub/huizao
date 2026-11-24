@@ -1,11 +1,11 @@
 {
-  "version": "1.8.103",
-  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.103/huizao-1.8.103.zip",
+  "version": "1.8.105",
+  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.105/huizao-1.8.105.zip",
   "download_urls": [
-    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.103/huizao-1.8.103.zip"
+    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.105/huizao-1.8.105.zip"
   ],
-  "sha256": "8CC668C1A4A8E01921B1059B82E15994A5ACF20952447FE021DC1E9DD8F048BE",
-  "size": 145517439,
-  "notes": "1.8.103 供应商接入地址切换 https://api.vv666.ai + 27/27 验收",
-  "published_at": "2026-11-24T13:16:31+08:00"
+  "sha256": "8ACF83160F05D9BC1358BA2329EF70B030E5E069219100383CF48788D699265F",
+  "size": 145513825,
+  "notes": "1.8.105 模型设置只保留 AIlaok-2.5 生图模型 + 注册地址 https://muxten.com/ + 窗口自愈/单实例 + 29/29 验收",
+  "published_at": "2026-11-24T19:13:27+08:00"
 }
