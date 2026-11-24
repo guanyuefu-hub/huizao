@@ -1,11 +1,11 @@
 {
-  "version": "1.8.102",
-  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.102/huizao-1.8.102.zip",
+  "version": "1.8.103",
+  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.103/huizao-1.8.103.zip",
   "download_urls": [
-    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.102/huizao-1.8.102.zip"
+    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.103/huizao-1.8.103.zip"
   ],
-  "sha256": "87219991A661CDE14A882CBE50E85FE4C1CCD2A77CC81A040BDE9D14F030360E",
-  "size": 145516760,
-  "notes": "1.8.102 Codex 复审 P1/P2 收口：AI 对话编辑组数、全参考图重试、同秒目录隔离与原子工作区写入；134 操作闸门 + 26/26 验收",
-  "published_at": "2026-11-23T16:52:55+08:00"
+  "sha256": "8CC668C1A4A8E01921B1059B82E15994A5ACF20952447FE021DC1E9DD8F048BE",
+  "size": 145517439,
+  "notes": "1.8.103 供应商接入地址切换 https://api.vv666.ai + 27/27 验收",
+  "published_at": "2026-11-24T13:16:31+08:00"
 }
