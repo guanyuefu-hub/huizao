@@ -1,11 +1,11 @@
 {
-  "version": "1.8.107",
-  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.107/huizao-1.8.107.zip",
+  "version": "1.8.108",
+  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.108/huizao-1.8.108.zip",
   "download_urls": [
-    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.107/huizao-1.8.107.zip"
+    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.108/huizao-1.8.108.zip"
   ],
-  "sha256": "FEA3CD553A83C708ECE9C02B416D862A6C3BDCC8D5308A14EC16C5C149EFA729",
-  "size": 145516193,
-  "notes": "1.8.107 供应商更名为 MUXTEN枢流 + 生图模型 gpt-image-2.5 + 29/29 验收",
-  "published_at": "2026-11-25T08:08:08+08:00"
+  "sha256": "1678785120E3D63173069398F8E43709F681D8CD60ADE255EF963115B17A7839",
+  "size": 145516770,
+  "notes": "1.8.108 视频供应商显示名 MUXTEN枢流 + 29/29 验收",
+  "published_at": "2026-11-25T10:37:09+08:00"
 }
