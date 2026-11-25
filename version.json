@@ -1,11 +1,11 @@
 {
-  "version": "1.8.108",
-  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.108/huizao-1.8.108.zip",
+  "version": "1.8.109",
+  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.109/huizao-1.8.109.zip",
   "download_urls": [
-    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.108/huizao-1.8.108.zip"
+    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.109/huizao-1.8.109.zip"
   ],
-  "sha256": "1678785120E3D63173069398F8E43709F681D8CD60ADE255EF963115B17A7839",
-  "size": 145516770,
-  "notes": "1.8.108 视频供应商显示名 MUXTEN枢流 + 29/29 验收",
-  "published_at": "2026-11-25T10:37:09+08:00"
+  "sha256": "2380E883FA305AC0E269091FD7962428E476B60C6936AB8F203255AF85AE7B84",
+  "size": 145519458,
+  "notes": "1.8.109 图片裂变分析切 MUXTEN 网关 + 窗口单实例置前修复 + 29/29 验收",
+  "published_at": "2026-11-25T20:03:06+08:00"
 }
