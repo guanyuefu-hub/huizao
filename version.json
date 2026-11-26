@@ -1,11 +1,11 @@
 {
-  "version": "1.8.109",
-  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.109/huizao-1.8.109.zip",
+  "version": "1.8.110",
+  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.110/huizao-1.8.110.zip",
   "download_urls": [
-    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.109/huizao-1.8.109.zip"
+    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.110/huizao-1.8.110.zip"
   ],
-  "sha256": "2380E883FA305AC0E269091FD7962428E476B60C6936AB8F203255AF85AE7B84",
-  "size": 145519458,
-  "notes": "1.8.109 图片裂变分析切 MUXTEN 网关 + 窗口单实例置前修复 + 29/29 验收",
-  "published_at": "2026-11-25T20:03:06+08:00"
+  "sha256": "1946294CAB8059411E018F9B3EF332B6A0ADBBED6E5642743C960DFF7A2E3FA8",
+  "size": 145520149,
+  "notes": "1.8.110 修复分析结果解析：中文分节（风格调性/营销视觉洞察）映射到标准字段",
+  "published_at": "2026-11-26T17:43:26+08:00"
 }
