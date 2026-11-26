@@ -1,11 +1,11 @@
 {
-  "version": "1.8.111",
-  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.111/huizao-1.8.111.zip",
+  "version": "1.8.112",
+  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.112/huizao-1.8.112.zip",
   "download_urls": [
-    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.111/huizao-1.8.111.zip"
+    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.112/huizao-1.8.112.zip"
   ],
-  "sha256": "B305D4E212090C13B45CB5B7BDAD6F184E273D8E224A00201CC16B2468EA62E9",
-  "size": 145520848,
-  "notes": "1.8.111 分析结果中文分节解析 + 单实例只复用同版本窗口",
-  "published_at": "2026-11-26T18:13:38+08:00"
+  "sha256": "234ADC0EA6B79DC38B873C9BA500AC77F266761ACEBAA3682A5DEE35EE598DEB",
+  "size": 145521028,
+  "notes": "1.8.112 分析原文直传规划师 + 分析失败不再静默兜底 · 31/31 全量验收",
+  "published_at": "2026-11-26T22:25:06+08:00"
 }
