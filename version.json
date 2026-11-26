@@ -1,11 +1,11 @@
 {
-  "version": "1.8.110",
-  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.110/huizao-1.8.110.zip",
+  "version": "1.8.111",
+  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.111/huizao-1.8.111.zip",
   "download_urls": [
-    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.110/huizao-1.8.110.zip"
+    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.111/huizao-1.8.111.zip"
   ],
-  "sha256": "1946294CAB8059411E018F9B3EF332B6A0ADBBED6E5642743C960DFF7A2E3FA8",
-  "size": 145520149,
-  "notes": "1.8.110 修复分析结果解析：中文分节（风格调性/营销视觉洞察）映射到标准字段",
-  "published_at": "2026-11-26T17:43:26+08:00"
+  "sha256": "B305D4E212090C13B45CB5B7BDAD6F184E273D8E224A00201CC16B2468EA62E9",
+  "size": 145520848,
+  "notes": "1.8.111 分析结果中文分节解析 + 单实例只复用同版本窗口",
+  "published_at": "2026-11-26T18:13:38+08:00"
 }
