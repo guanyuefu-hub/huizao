@@ -1,11 +1,11 @@
 {
-  "version": "1.8.112",
-  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.112/huizao-1.8.112.zip",
+  "version": "1.8.113",
+  "download_url": "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.113/huizao-1.8.113.zip",
   "download_urls": [
-    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.112/huizao-1.8.112.zip"
+    "https://github.com/guanyuefu-hub/huizao/releases/download/v1.8.113/huizao-1.8.113.zip"
   ],
-  "sha256": "234ADC0EA6B79DC38B873C9BA500AC77F266761ACEBAA3682A5DEE35EE598DEB",
-  "size": 145521028,
-  "notes": "1.8.112 分析原文直传规划师 + 分析失败不再静默兜底 · 31/31 全量验收",
-  "published_at": "2026-11-26T22:25:06+08:00"
+  "sha256": "9FF42FC7337123B424B43EF77FB729906CD67846E5074A35EAC24BAA936E2E31",
+  "size": 145521143,
+  "notes": "1.8.113 对齐原作：corePrompt 文字3-5层（主标题+副标题+小字+装饰字/辅助信息等）、detailCorePrompt 补装饰字/辅助信息；重封出厂配置；新增 core 提示词对齐验收 11/11、总套件 32/32",
+  "published_at": "2026-11-27T18:21:54+08:00"
 }
